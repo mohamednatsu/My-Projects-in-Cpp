@@ -31,7 +31,7 @@ string chiper_affine(string mes_sen){
 //-------------------------Dextraction Affine----------
 
 string decrypt_affine(string cip_aff){
-	
+	//declaraiton keys and message
 	string message = " ";
 	int a;
 	int key_a_vi =0;
